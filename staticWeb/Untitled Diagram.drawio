@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T09:35:21.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="h9e4XfFxq3GoE-Oc8e9-" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-10T10:09:54.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SZ0Of1b1FrM0qoCY1wEE" version="18.0.2" type="github" pages="6">
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,14 +25,17 @@
         <mxCell id="_LIRofzzChph_EFBGV_p-4" value="Liander" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="451" y="720" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="_LIRofzzChph_EFBGV_p-8" target="1zi3gBxquM7h25bUASLV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-8" value="Kafka Consumer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-9" value="Inspector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-10" value="Mutatie Tool" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-11" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
@@ -53,10 +56,10 @@
           <mxGeometry x="40" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJJLelBywiv6xxUjgZXU-2" value="Omicron" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="660" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="571" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-2" value="Business rules onderhoud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-3" value="Dynamische data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="451" y="525" width="120" height="60" as="geometry" />
@@ -64,11 +67,29 @@
         <mxCell id="1zi3gBxquM7h25bUASLV-4" value="Statische data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-1" value="Automatiseren beoordelen onderhoud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-2" value="VGE uitfaseren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-3" value="Muteren storingen en automatisch beoordelen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-4" value="Automatiseren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-7" value="Volgt werk uit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT4V8BLsTGPAv9AlhDRt-8" value="Volgt werk uit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2VVJ5Q8G26HXUSWs0n0n" name="Page-7">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +173,7 @@
         <mxCell id="_8hG3KRM3qx4qLLlASOH-2" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="330" width="350" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="_8hG3KRM3qx4qLLlASOH-1" value="Qirion API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_8hG3KRM3qx4qLLlASOH-1" value="Q-API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="518" width="109" height="52" as="geometry" />
         </mxCell>
         <mxCell id="UIJSoI195DZLYgH4Dl49-1" value="BTP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
