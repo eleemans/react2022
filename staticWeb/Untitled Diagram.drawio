@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T04:17:02.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Opr8uGb9MfSh-TsO444i" version="18.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-10T04:22:33.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hwl-reFXjPZ3BAQ3UwgV" version="18.0.2" type="github" pages="4">
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="A7LrbhBaHQNIeefW0-Py-12" value="Proxy &lt;br&gt;or cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="570" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A7LrbhBaHQNIeefW0-Py-13" value="Kafka Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A7LrbhBaHQNIeefW0-Py-13" value="Kafka Producer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="307" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A7LrbhBaHQNIeefW0-Py-14" value="Content server API" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -160,6 +160,20 @@
         </mxCell>
         <mxCell id="UIJSoI195DZLYgH4Dl49-4" value="On Prem" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="690" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XlLXedr5EpkFzHEWrlZP" name="Page-4">
+    <mxGraphModel dx="769" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hN4-X3KHo6E84t8yu9hM-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1051/1*jH0iI7-MSQYgLUrqTUm6mg.png;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="520" height="354" as="geometry" />
+        </mxCell>
+        <mxCell id="hN4-X3KHo6E84t8yu9hM-3" value="&lt;p style=&quot;line-height: 1.4;&quot;&gt;Frameworks&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;spacingTop=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="320" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
