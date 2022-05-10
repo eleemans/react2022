@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T04:32:26.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3w2N3RBtvfYRzWIiBxjd" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-10T05:19:38.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6UqlBDZlnWs6wWK8_woq" version="18.0.2" type="github" pages="5">
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,6 +172,42 @@
         <mxCell id="mGGtVF3v-0VEZHR-SyZF-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*KtSvmSz5XOeSTeBWEjUeXg.png;" vertex="1" parent="1">
           <mxGeometry x="169" y="210" width="490" height="520" as="geometry" />
         </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="fS9zKB8kVcNqvdrM3qBB-2" target="fS9zKB8kVcNqvdrM3qBB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-2" value="The Dependency Rule" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="217" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-3" value="Business logic niet afhankelijk" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="217" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="fS9zKB8kVcNqvdrM3qBB-5" target="fS9zKB8kVcNqvdrM3qBB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-5" value="Generic Repositories" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="437" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-6" value="Abstracte logica om data te ontsluiten" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="437" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="fS9zKB8kVcNqvdrM3qBB-8" target="fS9zKB8kVcNqvdrM3qBB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-8" value="Implementatie details SQL server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="fS9zKB8kVcNqvdrM3qBB-10" target="fS9zKB8kVcNqvdrM3qBB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-10" value="Repo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-11" value="Core --&amp;gt; business logic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS9zKB8kVcNqvdrM3qBB-15" value="Lower need of change" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="330" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -180,11 +216,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5pP_gnkfKtF5P83e3hZb-1" value="&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Frameworks&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;spacingTop=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="490" width="320" height="320" as="geometry" />
+        <mxCell id="Hc3YSfh0LWZeF7eqytct-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/875/1*JkSjWvfGMsxV4eEyXcxUMg.png;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="520" height="304" as="geometry" />
         </mxCell>
-        <mxCell id="5pP_gnkfKtF5P83e3hZb-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Controllers&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;spacingTop=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="240" height="240" as="geometry" />
+        <mxCell id="Hc3YSfh0LWZeF7eqytct-2" value="Organisatie:&lt;br&gt;- ID&lt;br&gt;-Eigenaar" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc3YSfh0LWZeF7eqytct-3" value="Station" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
