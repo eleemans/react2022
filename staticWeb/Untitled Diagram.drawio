@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T07:33:08.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rqPu_NTvwv9OVafVxBAt" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-10T09:13:45.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lSqQZQ23I24VL_PAfl_X" version="18.0.2" type="github" pages="6">
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,11 +55,8 @@
         <mxCell id="XJJLelBywiv6xxUjgZXU-2" value="Omicron" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="660" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1zi3gBxquM7h25bUASLV-1" value="Beoordeling" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1zi3gBxquM7h25bUASLV-2" value="Business rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="1zi3gBxquM7h25bUASLV-2" value="Business rules onderhoud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-3" value="Dynamische data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
@@ -244,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZpqqIRCeBZmiYDMtqIMW" name="Page-6">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
