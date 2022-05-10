@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T09:13:45.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lSqQZQ23I24VL_PAfl_X" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-10T09:35:21.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="h9e4XfFxq3GoE-Oc8e9-" version="18.0.2" type="github" pages="6">
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-1" value="Qirion API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="321" y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-2" value="i-Core" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="289" y="640" width="60" height="80" as="geometry" />
+          <mxGeometry x="290" y="720" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-3" value="Tennet" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="370" y="640" width="60" height="80" as="geometry" />
+          <mxGeometry x="371" y="720" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-4" value="Liander" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="450" y="640" width="60" height="80" as="geometry" />
+          <mxGeometry x="451" y="720" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-8" value="Kafka Consumer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TJ5iqCwmINLxDIpcIWsS-1" value="Proxy &lt;br&gt;or cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="570" width="80" height="50" as="geometry" />
+          <mxGeometry x="270" y="650" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eNnHhdQrDtm_9kjSp-nN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="TJ5iqCwmINLxDIpcIWsS-2" target="eNnHhdQrDtm_9kjSp-nN-5">
           <mxGeometry relative="1" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry x="660" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-2" value="Business rules onderhoud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-3" value="Dynamische data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1zi3gBxquM7h25bUASLV-4" value="Statische data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HpVJbcLZ7ZJIM3ib_42-" name="Page-3">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           <mxGeometry x="130" y="430" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UIJSoI195DZLYgH4Dl49-2" value="SQL Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="390" width="170" height="120" as="geometry" />
+          <mxGeometry x="520" y="390" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UIJSoI195DZLYgH4Dl49-4" value="On Prem" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="690" width="60" height="80" as="geometry" />
