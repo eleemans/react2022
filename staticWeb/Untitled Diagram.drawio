@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T05:02:32.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="AKrfrs4w9YumpvOAmF1p" version="18.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-17T11:01:09.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="OtAoCqRiLQ9HqguUQaYO" version="18.0.2" type="github" pages="7">
   <diagram id="HpVJbcLZ7ZJIM3ib_42-" name="Intro">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Huidig" id="vT4zfsBOIa107QjHJJ_h">
-    <mxGraphModel dx="1438" dy="147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7QKlyXyI2FBLRuou-GM7-0" />
         <mxCell id="7QKlyXyI2FBLRuou-GM7-1" parent="7QKlyXyI2FBLRuou-GM7-0" />
@@ -127,11 +127,14 @@
         <mxCell id="mUy6Duw-CrBWfTMeyEvr-0" value="Mutatie Tool Middleware op CF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7QKlyXyI2FBLRuou-GM7-1">
           <mxGeometry x="341" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_yjZpBlrT0NItWTgB0ZZ-0" value="NBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7QKlyXyI2FBLRuou-GM7-1">
+          <mxGeometry x="-10" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KApg9ZK0kmlz-gtaGevU" name="Plan API">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +162,7 @@
         <mxCell id="_LIRofzzChph_EFBGV_p-9" value="Inspector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_LIRofzzChph_EFBGV_p-10" value="Mutatie Tool" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_LIRofzzChph_EFBGV_p-10" value="i-Core Mutatie Tool" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIRofzzChph_EFBGV_p-11" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -187,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mogelijkheden" id="776NfYBEFLvedW3-ykA_">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QCPtocISedsEPQomGW2w-0" />
         <mxCell id="QCPtocISedsEPQomGW2w-1" parent="QCPtocISedsEPQomGW2w-0" />
@@ -221,7 +224,7 @@
         <mxCell id="7YPB4oChSVs1w-JZZr6h-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QCPtocISedsEPQomGW2w-1" source="QCPtocISedsEPQomGW2w-10" target="7YPB4oChSVs1w-JZZr6h-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QCPtocISedsEPQomGW2w-10" value="Mutatie Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+        <mxCell id="QCPtocISedsEPQomGW2w-10" value="i-Core Mutatie Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
           <mxGeometry x="620" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCPtocISedsEPQomGW2w-11" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
