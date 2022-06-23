@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:30:16.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="yTeoN584Kc8ORyziMSih" version="18.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-23T17:57:13.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZUIy9g1Pb0kt8uCGScas" version="18.2.1" type="github" pages="7">
   <diagram id="HpVJbcLZ7ZJIM3ib_42-" name="Intro">
-    <mxGraphModel dx="3598" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Huidig" id="vT4zfsBOIa107QjHJJ_h">
-    <mxGraphModel dx="1788" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1954" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7QKlyXyI2FBLRuou-GM7-0" />
         <mxCell id="7QKlyXyI2FBLRuou-GM7-1" parent="7QKlyXyI2FBLRuou-GM7-0" />
@@ -213,7 +213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mogelijkheden" id="776NfYBEFLvedW3-ykA_">
-    <mxGraphModel dx="3598" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QCPtocISedsEPQomGW2w-0" />
         <mxCell id="QCPtocISedsEPQomGW2w-1" parent="QCPtocISedsEPQomGW2w-0" />
@@ -354,6 +354,41 @@
         </mxCell>
         <mxCell id="kzaGBz2SeAFk83SjzMqJ-0" value="Checklijst Configurator" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
           <mxGeometry x="620" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-1" value="Lambda(schedule)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-2" target="Tm7XpbJYN7K8PLO_GB1N-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-2" value="Kafka&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-5" target="Tm7XpbJYN7K8PLO_GB1N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-5" value="Step functie(s)&lt;br&gt;transformatie" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1240" y="692" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-6" value="i-Core" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1270" y="860" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-8" target="Tm7XpbJYN7K8PLO_GB1N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-8" value="Lambda(schedule)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1240" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-11" value="NEst server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1390" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-12" value="Event bridge&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="QCPtocISedsEPQomGW2w-1">
+          <mxGeometry x="1090" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
