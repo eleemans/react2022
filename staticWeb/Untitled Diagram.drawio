@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T11:22:52.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="775V_bHqBBSqsn7gAoX9" version="18.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-27T11:29:23.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wYjPtGVGEsOjzzSs70_K" version="18.0.2" type="github" pages="7">
   <diagram id="HpVJbcLZ7ZJIM3ib_42-" name="Intro">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
         <mxCell id="Tm7XpbJYN7K8PLO_GB1N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-5" target="Tm7XpbJYN7K8PLO_GB1N-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-5" value="Step functie(s)&lt;br&gt;transformatie" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-5" value="Lambda(validate &amp;amp; transform)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
           <mxGeometry x="1240" y="692" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7XpbJYN7K8PLO_GB1N-6" value="i-Core" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
@@ -386,7 +386,7 @@
         <mxCell id="Tm7XpbJYN7K8PLO_GB1N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="QCPtocISedsEPQomGW2w-1" source="Tm7XpbJYN7K8PLO_GB1N-8" target="Tm7XpbJYN7K8PLO_GB1N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-8" value="Lambda(schedule)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
+        <mxCell id="Tm7XpbJYN7K8PLO_GB1N-8" value="Lambda(Insert)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
           <mxGeometry x="1240" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7XpbJYN7K8PLO_GB1N-11" value="NEst server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="QCPtocISedsEPQomGW2w-1" vertex="1">
