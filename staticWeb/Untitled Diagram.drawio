@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T08:33:21.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DY4tmILa01zKIhNUgPwH" version="20.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-28T08:33:48.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gbSdtyRa-oZJK1wmprpf" version="20.0.3" type="github" pages="10">
   <diagram id="HpVJbcLZ7ZJIM3ib_42-" name="Intro">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,6 +436,9 @@
             <mxPoint x="980" y="735" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cwk13hlAlzJ5A42aVu5V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FmohKxWo-9Xt0cyQsnhJ-8" target="cwk13hlAlzJ5A42aVu5V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FmohKxWo-9Xt0cyQsnhJ-8" value="i-Core get StepFunction" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1085" y="540" width="270" height="210" as="geometry" />
         </mxCell>
@@ -470,7 +473,7 @@
           <mxGeometry x="910" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwk13hlAlzJ5A42aVu5V-4" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="803" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="803" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
